@@ -1,29 +1,37 @@
 <div align="center">
-  
-  # Kaavya Gala
-  
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Developer;Systems+%26+Product+Thinker" alt="Typing SVG" />
+
+# Kaavya Gala
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Developer;Systems+%26+Product+Thinker" />
 </a>
+
 </div>
 
 ---
 
-### Hi there 👋, I'm Kaavya!
+## 👋 About Me
 
-I’m an AI & systems-focused engineer in the making, currently pursuing Computer Science (AI & ML).
+I’m a Computer Science (AI & ML) student focused on building **intelligent, real-world systems**.
 
-I build at the intersection of intelligent systems, full-stack engineering, and real-world execution — from developing NLP-based analyzers to shipping production-ready web platforms.
+My work sits at the intersection of **applied AI, full-stack engineering, and product execution** — from developing NLP-based systems to deploying production-ready web applications.
 
-Beyond code, I’ve led a 600+ member entrepreneurship cell, built tech for large-scale university events, and am currently founding a D2C brand from scratch — giving me a strong bias toward building things that actually work outside the lab.
+Beyond engineering, I’ve led a **600+ member entrepreneurship community**, built systems used in **university-scale environments**, and am currently building a **D2C startup from the ground up**.
 
-I’m particularly interested in applied AI, system design, and creating products where technology meets real user behavior.
+I’m particularly interested in **applied AI, system design, and building technology aligned with real user behavior**.
 
-- 🧠 Building and experimenting with **applied AI systems**, with a focus on NLP and intelligent data-driven applications  
-- 💻 Developing **full-stack applications and scalable architectures**, with growing depth in system design  
-- ⚡ Combining **engineering, product thinking, and design** to build solutions that are both functional and user-centric  
 ---
-## 🛠 Technical Stack
+
+## ⚡ What I Do
+
+- 🧠 Build **applied AI systems**, with a focus on NLP and data-driven applications  
+- 💻 Develop **scalable full-stack applications** with clean architecture  
+- ⚙️ Think in **systems and backend workflows**, not just features  
+- 🚀 Combine **engineering + product thinking** to build real-world solutions  
+
+---
+
+## 🛠 Tech Stack
 
 ### 🧠 AI / Data
 <p align="center">
@@ -31,18 +39,14 @@ I’m particularly interested in applied AI, system design, and creating product
 </p>
 
 <p align="center">
-  <b>Libraries & Concepts:</b> Pandas • NumPy • Scikit-learn • NLP • Data Analysis • Machine Learning
+  <b>Pandas • NumPy • Scikit-learn • NLP • Machine Learning • Data Analysis</b>
 </p>
 
 ---
 
-### 💻 Full-Stack Development
+### 💻 Full-Stack Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css" />
-</p>
-
-<p align="center">
-  <b>Focus:</b> Building scalable web applications with clean architecture & user-centric design
 </p>
 
 ---
@@ -53,60 +57,88 @@ I’m particularly interested in applied AI, system design, and creating product
 </p>
 
 <p align="center">
-  <b>Workflow:</b> Version Control • API Integration • Debugging • Deployment
+  <b>Version Control • API Integration • Debugging • Deployment</b>
 </p>
 
 ---
 
-### 🧩 Core CS
+### 🧩 Core Foundations
 <p align="center">
-  <b>Data Structures & Algorithms • Problem Solving • System Design Fundamentals • Databases (SQL)</b>
+  <b>Data Structures & Algorithms • System Design Fundamentals • Databases (SQL & NoSQL)</b>
 </p>
 
-And of course, **loading more...** ▓▓▓▓▓▓▓▓▓▓▓░ 90%
+---
+
+## 🚀 Technical Highlights
+
+### 🧠 Applied AI
+- Built an **NLP-based research analyzer** using TF-IDF and Sentence-BERT  
+- Implemented **clustering, topic modeling, and similarity pipelines**  
+- Worked with **data preprocessing, feature engineering, and visualization**
 
 ---
 
-## 🛠 Technical Expertise
-
-### 🧠 Applied AI & Intelligent Systems
-- Built an **NLP-based research analyzer** using TF-IDF and Sentence-BERT for document similarity, clustering, and topic modeling  
-- Designed **data processing pipelines** involving preprocessing, feature extraction, and visualization  
-- Applied **machine learning techniques** using Pandas, NumPy, and Scikit-learn for data-driven insights  
+### 💻 Full-Stack Systems
+- Developed **end-to-end applications** using React, Node.js, Express, and MongoDB  
+- Built **production-grade systems** with authentication and efficient data handling  
+- Designed for **real-world usage and scalability**
 
 ---
 
-### 💻 Full-Stack Engineering
-- Developed **end-to-end web applications** using React, Node.js, Express, and MongoDB  
-- Built and deployed **production-level web systems**, including a university-scale platform recognized for its maturity and completeness  
-- Implemented features such as **authentication, filtering, and efficient data handling**  
+### ⚙️ Real-World Engineering
+- Led development of a **university-scale platform** recognized for its maturity and completeness  
+- Built systems handling **real users, workflows, and deployment constraints**
 
 ---
 
-### ⚙️ Systems & Backend Foundations
-- Strong foundation in **Data Structures & Algorithms** with problem-solving focus  
-- Understanding of **system design fundamentals**, API architecture, and backend workflows  
-- Experience working with **SQL & NoSQL databases** in real-world applications  
+### 🚀 Product & Startup
+- Founder of **Bocadoh** — building a D2C brand from idea to execution  
+- Working across **product development, positioning, and go-to-market strategy**  
+- Focused on **building systems that work beyond development environments**
 
 ---
 
-### 🚀 Product Engineering & Startup Execution
-- Founder of **Bocadoh**, building a D2C healthy snacking brand from **idea to market execution**  
-- Working across **product development, market research, and go-to-market strategy**  
-- Combine **engineering + product thinking** to build scalable, user-centric solutions  
+## 🚀 Featured Projects
+
+### 🧠 NLP Research Analyzer
+- Built using **TF-IDF + Sentence-BERT** for document similarity and semantic analysis  
+- Implemented **clustering, topic modeling (LDA), and summarization pipelines**  
+- Focused on extracting insights from large text datasets  
+- **Tech:** Python, Scikit-learn, NLP  
+🔗 View Project • 🌐 Live Demo  
 
 ---
 
-### 🧩 Development Workflow & Tooling
-- Tools: **Git, GitHub, VS Code, Jupyter Notebook, Google Colab**  
-- Experienced in **debugging, version control, and collaborative development workflows**  
-- Comfortable with **API integration and deploying full-stack applications**###
+### 💻 Full-Stack Property Platform
+- Developed a **full-stack web application** with authentication and dynamic filtering  
+- Designed for **scalable data handling and smooth user interaction**  
+- Implemented backend APIs and database integration  
+- **Tech:** React, Node.js, Express, MongoDB  
+🔗 View Project • 🌐 Live Demo  
+
 ---
 
-### 🔗 Let's Connect
+### ⚙️ DAMRU Fest Website
+- Led **end-to-end development** (design → development → deployment)  
+- Built a platform recognized as one of the **most mature university fest websites**  
+- Designed for **real-world usage, performance, and usability at scale**  
+- **Tech:** React, Web Technologies, Deployment  
+🔗 View Project • 🌐 Live Demo  
+
+---
+
+## 🔗 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaavya-gala-46602221a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
+
+---
+
+<div align="center">
+
+### ⚡ Building systems that are not just functional — but usable, scalable, and real.
+
+</div>
