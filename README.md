@@ -1,14 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Systems+Engineer;Systems+%26+Product+Thinker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Systems+Engineer;Systems+%26+Product+Thinker" />
 </p>
 
 # Kaavya Gala
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaavyaGala546&show_icons=true&theme=tokyonight" />
-</p>
+### Building AI-powered systems that solve real-world problems
 
 ---
 
@@ -19,6 +14,31 @@ I’m a Computer Science (AI & ML) student focused on building **intelligent, re
 I work at the intersection of **applied AI, full-stack engineering, and product execution** — from NLP systems to production-grade applications.
 
 I’ve led a **600+ member entrepreneurship community** and I’m currently building a **D2C startup (Bocadoh)** from the ground up.
+
+---
+
+## 🚀 Flagship Project
+
+### 🧠 DocuMind AI — Intelligent Research Assistant
+
+- Built using **TF-IDF + Sentence-BERT** for semantic document similarity  
+- Processes large-scale document datasets and extracts meaningful insights  
+- Implemented **clustering, topic modeling, and summarization pipelines**  
+- Designed for real-world research and knowledge workflows  
+
+**Tech:** Python, NLP, Scikit-learn  
+
+🔗 [View Code](https://github.com/KaavyaGala546/DocuMind-AI)  
+🌐 [Live Demo](https://docu-mind-ai-kaavya.streamlit.app/)
+
+---
+
+## 📊 Impact & Experience
+
+- Led a **600+ member entrepreneurship community**  
+- Built systems used in **university-scale environments**  
+- Developed and deployed **multiple full-stack applications**  
+- Currently building a **D2C startup (Bocadoh)** from scratch  
 
 ---
 
@@ -36,6 +56,15 @@ I’ve led a **600+ member entrepreneurship community** and I’m currently buil
 - Scaling applied AI systems beyond prototypes  
 - Strengthening system design and backend architecture  
 - Building and launching Bocadoh  
+
+---
+
+## 🧠 How I Think
+
+- I focus on building **systems, not just features**  
+- I prioritize **real-world usability over theoretical perfection**  
+- I approach problems with a **product + engineering mindset**  
+- I enjoy working on **complex, open-ended challenges**  
 
 ---
 
@@ -77,48 +106,7 @@ I’ve led a **600+ member entrepreneurship community** and I’m currently buil
 
 ---
 
-## 🚀 Technical Highlights
-
-### 🧠 Applied AI
-- Built an **NLP-based research analyzer** using TF-IDF and Sentence-BERT  
-- Implemented **clustering, topic modeling (LDA), and semantic similarity pipelines**  
-- Designed systems to extract insights from large-scale unstructured data  
-
----
-
-### 💻 Full-Stack Systems
-- Developed **end-to-end full-stack applications** with authentication and dynamic features  
-- Built **production-ready systems** with efficient backend architecture  
-- Designed for **real-world scalability and performance**  
-
----
-
-### ⚙️ Real-World Engineering
-- Led development of a **university-scale platform** used by real users  
-- Built systems handling **live workflows, users, and deployment constraints**  
-
----
-
-### 🚀 Product & Startup
-- Founder of **Bocadoh** — building a D2C brand from idea to execution  
-- Working across **product development, positioning, and go-to-market strategy**  
-- Focused on **building systems beyond development environments**  
-
----
-
 ## 🚀 Featured Projects
-
-### 🧠 NLP Research Analyzer
-- Built using **TF-IDF + Sentence-BERT** for semantic document similarity  
-- Implemented **clustering, topic modeling, and summarization pipelines**  
-- Designed to extract insights from large unstructured datasets  
-
-**Tech:** Python, Scikit-learn, NLP  
-
-🔗 [View Code](https://github.com/KaavyaGala546/DocuMind-AI)  
-🌐 [Live Demo](https://docu-mind-ai-kaavya.streamlit.app/)
-
----
 
 ### 💻 Full-Stack Property Platform
 - Developed a **full-stack web application** with authentication and dynamic filtering  
