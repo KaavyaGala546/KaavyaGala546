@@ -10,7 +10,13 @@
 
 ### Hi there 👋, I'm Kaavya!
 
-I'm a **B.Tech student** in **CSE (AI & ML)** from **NST ADYPU**, based in India 🇮🇳. I love blending technology with creativity to build cool things. My journey is all about learning, building, and occasionally breaking stuff to learn even more.
+I’m an AI & systems-focused engineer in the making, currently pursuing Computer Science (AI & ML).
+
+I build at the intersection of intelligent systems, full-stack engineering, and real-world execution — from developing NLP-based analyzers to shipping production-ready web platforms.
+
+Beyond code, I’ve led a 600+ member entrepreneurship cell, built tech for large-scale university events, and am currently founding a D2C brand from scratch — giving me a strong bias toward building things that actually work outside the lab.
+
+I’m particularly interested in applied AI, system design, and creating products where technology meets real user behavior.
 
 -   🧠 Currently learning and building projects with advanced AI models.
 -   💻 Exploring the depths of web development and system design.
