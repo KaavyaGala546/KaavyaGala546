@@ -2,8 +2,9 @@
   
   # Kaavya Gala
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Creative+Video+Editor;T-Shirt+Designer" alt="Typing SVG" /></a>
-  
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Developer;Systems+%26+Product+Thinker" alt="Typing SVG" />
+</a>
 </div>
 
 ---
