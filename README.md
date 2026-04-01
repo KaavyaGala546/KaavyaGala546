@@ -23,15 +23,44 @@ I’m particularly interested in applied AI, system design, and creating product
 - 💻 Developing **full-stack applications and scalable architectures**, with growing depth in system design  
 - ⚡ Combining **engineering, product thinking, and design** to build solutions that are both functional and user-centric  
 ---
+## 🛠 Technical Stack
 
-### 💻 Languages & Tools
-
-Here's a list of technologies I've been working with recently:
+### 🧠 AI / Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,firebase,mongodb,nodejs,vscode,git,photoshop,wordpress,p5js,unity&perline=6" />
-  </a>
+  <b>Libraries & Concepts:</b> Pandas • NumPy • Scikit-learn • NLP • Data Analysis • Machine Learning
+</p>
+
+---
+
+### 💻 Full-Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css" />
+</p>
+
+<p align="center">
+  <b>Focus:</b> Building scalable web applications with clean architecture & user-centric design
+</p>
+
+---
+
+### ⚙️ Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
+
+<p align="center">
+  <b>Workflow:</b> Version Control • API Integration • Debugging • Deployment
+</p>
+
+---
+
+### 🧩 Core CS
+<p align="center">
+  <b>Data Structures & Algorithms • Problem Solving • System Design Fundamentals • Databases (SQL)</b>
 </p>
 
 And of course, **loading more...** ▓▓▓▓▓▓▓▓▓▓▓░ 90%
