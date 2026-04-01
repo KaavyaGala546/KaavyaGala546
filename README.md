@@ -105,6 +105,7 @@ I’m particularly interested in **applied AI, system design, and building techn
 - Implemented **clustering, topic modeling (LDA), and summarization pipelines**  
 - Focused on extracting insights from large text datasets  
 - **Tech:** Python, Scikit-learn, NLP  
+
 🔗 [View Code](https://github.com/KaavyaGala546/DocuMind-AI)  
 🌐 [Live Demo](https://docu-mind-ai-kaavya.streamlit.app/)
 ---
@@ -114,6 +115,7 @@ I’m particularly interested in **applied AI, system design, and building techn
 - Designed for **scalable data handling and smooth user interaction**  
 - Implemented backend APIs and database integration  
 - **Tech:** React, Node.js, Express, MongoDB
+
 🔗 [View Code](https://github.com/KaavyaGala546/property-listing)  
 🌐 [Live Demo](https://property-listing-amber.vercel.app/)
 ---
