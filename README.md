@@ -106,5 +106,7 @@ And of course, **loading more...** ▓▓▓▓▓▓▓▓▓▓▓░ 90%
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kaavya-gala-46602221a" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kaavya-gala-46602221a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+  </a>
 </p>
