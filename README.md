@@ -3,10 +3,16 @@
 # Kaavya Gala
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Developer;Systems+%26+Product+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Systems+Engineer;Systems+%26+Product+Thinker" />
 </a>
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaavyaGala546&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -14,20 +20,26 @@
 
 I’m a Computer Science (AI & ML) student focused on building **intelligent, real-world systems**.
 
-My work sits at the intersection of **applied AI, full-stack engineering, and product execution** — from developing NLP-based systems to deploying production-ready web applications.
+I work at the intersection of **applied AI, full-stack engineering, and product execution** — from NLP systems to production-grade web applications.
 
-Beyond engineering, I’ve led a **600+ member entrepreneurship community**, built systems used in **university-scale environments**, and am currently building a **D2C startup from the ground up**.
-
-I’m particularly interested in **applied AI, system design, and building technology aligned with real user behavior**.
+I’ve led a **600+ member entrepreneurship community** and am currently building a **D2C startup (Bocadoh)** from the ground up.
 
 ---
 
 ## ⚡ What I Do
 
-- 🧠 Build **applied AI systems**, with a focus on NLP and data-driven applications  
-- 💻 Develop **scalable full-stack applications** with clean architecture  
+- 🧠 Build **applied AI systems**, focused on NLP and data-driven applications  
+- 💻 Develop **scalable full-stack systems** with clean architecture  
 - ⚙️ Think in **systems and backend workflows**, not just features  
 - 🚀 Combine **engineering + product thinking** to build real-world solutions  
+
+---
+
+## 🎯 Current Focus
+
+- Scaling applied AI systems beyond prototypes  
+- Strengthening system design and backend architecture  
+- Building and launching Bocadoh  
 
 ---
 
@@ -35,7 +47,7 @@ I’m particularly interested in **applied AI, system design, and building techn
 
 ### 🧠 AI / Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 <p align="center">
@@ -72,59 +84,64 @@ I’m particularly interested in **applied AI, system design, and building techn
 ## 🚀 Technical Highlights
 
 ### 🧠 Applied AI
-- Built an **NLP-based research analyzer** using TF-IDF and Sentence-BERT  
-- Implemented **clustering, topic modeling, and similarity pipelines**  
-- Worked with **data preprocessing, feature engineering, and visualization**
+- Built an **NLP-based research analyzer** processing large-scale text datasets  
+- Implemented **clustering, topic modeling (LDA), and semantic similarity pipelines**  
+- Applied **feature engineering and preprocessing techniques** for better model performance  
 
 ---
 
 ### 💻 Full-Stack Systems
-- Developed **end-to-end applications** using React, Node.js, Express, and MongoDB  
-- Built **production-grade systems** with authentication and efficient data handling  
-- Designed for **real-world usage and scalability**
+- Developed **end-to-end full-stack applications** with authentication and dynamic features  
+- Built **production-ready systems** with efficient backend architecture  
+- Designed for **real-world scalability and performance**  
 
 ---
 
 ### ⚙️ Real-World Engineering
-- Led development of a **university-scale platform** recognized for its maturity and completeness  
-- Built systems handling **real users, workflows, and deployment constraints**
+- Led development of a **university-scale platform** used in real environments  
+- Built systems handling **live users, workflows, and deployment constraints**  
 
 ---
 
 ### 🚀 Product & Startup
 - Founder of **Bocadoh** — building a D2C brand from idea to execution  
-- Working across **product development, positioning, and go-to-market strategy**  
-- Focused on **building systems that work beyond development environments**
+- Working across **product, positioning, and go-to-market strategy**  
+- Focused on **building systems beyond development environments**  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 NLP Research Analyzer
-- Built using **TF-IDF + Sentence-BERT** for document similarity and semantic analysis  
-- Implemented **clustering, topic modeling (LDA), and summarization pipelines**  
-- Focused on extracting insights from large text datasets  
-- **Tech:** Python, Scikit-learn, NLP  
+- Built using **TF-IDF + Sentence-BERT** for semantic document similarity  
+- Implemented **clustering, topic modeling, and summarization pipelines**  
+- Designed to extract insights from large unstructured datasets  
+
+**Tech:** Python, Scikit-learn, NLP  
 
 🔗 [View Code](https://github.com/KaavyaGala546/DocuMind-AI)  
 🌐 [Live Demo](https://docu-mind-ai-kaavya.streamlit.app/)
+
 ---
 
 ### 💻 Full-Stack Property Platform
 - Developed a **full-stack web application** with authentication and dynamic filtering  
 - Designed for **scalable data handling and smooth user interaction**  
 - Implemented backend APIs and database integration  
-- **Tech:** React, Node.js, Express, MongoDB
+
+**Tech:** React, Node.js, Express, MongoDB  
 
 🔗 [View Code](https://github.com/KaavyaGala546/property-listing)  
 🌐 [Live Demo](https://property-listing-amber.vercel.app/)
+
 ---
 
 ### ⚙️ DAMRU Fest Website
 - Led **end-to-end development** (design → development → deployment)  
-- Built a platform recognized as one of the **most mature university fest websites**  
-- Designed for **real-world usage, performance, and usability at scale**  
-- **Tech:** React, Web Technologies, Deployment  
+- Built a **high-performance platform** used at university scale  
+- Focused on **usability, responsiveness, and real-world reliability**  
+
+**Tech:** React, Web Technologies, Deployment  
 
 ---
 
