@@ -10,12 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaavyaGala546&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 👋 About Me
 
 I’m a Computer Science (AI & ML) student focused on building **intelligent, real-world systems**.
