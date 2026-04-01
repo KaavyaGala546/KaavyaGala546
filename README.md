@@ -100,7 +100,10 @@ And of course, **loading more...** ▓▓▓▓▓▓▓▓▓▓▓░ 90%
 ### 🧩 Development Workflow & Tooling
 - Tools: **Git, GitHub, VS Code, Jupyter Notebook, Google Colab**  
 - Experienced in **debugging, version control, and collaborative development workflows**  
-- Comfortable with **API integration and deploying full-stack applications**### 🔗 Let's Connect
+- Comfortable with **API integration and deploying full-stack applications**###
+---
+
+### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharanyo-banerjee-68676a301/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
