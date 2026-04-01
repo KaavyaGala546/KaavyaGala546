@@ -18,10 +18,9 @@ Beyond code, I’ve led a 600+ member entrepreneurship cell, built tech for larg
 
 I’m particularly interested in applied AI, system design, and creating products where technology meets real user behavior.
 
--   🧠 Currently learning and building projects with advanced AI models.
--   💻 Exploring the depths of web development and system design.
--   🎨 Passionate about design, from UI/UX to video editing.
-
+- 🧠 Building and experimenting with **applied AI systems**, with a focus on NLP and intelligent data-driven applications  
+- 💻 Developing **full-stack applications and scalable architectures**, with growing depth in system design  
+- ⚡ Combining **engineering, product thinking, and design** to build solutions that are both functional and user-centric  
 ---
 
 ### 💻 Languages & Tools
