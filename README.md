@@ -67,15 +67,40 @@ And of course, **loading more...** ▓▓▓▓▓▓▓▓▓▓▓░ 90%
 
 ---
 
-### 🚀 My Experience
+## 🛠 Technical Expertise
 
-| Period               | Role                         | Description                                                               |
-| -------------------- | ---------------------------- | ------------------------------------------------------------------------- |
-| **Dec 2023 - Dec 2024** | **Freelancer** | Specialized in Video/Photo Editing and creating compelling Ads for clients. |
-| **Personal Project** | **Front-End Dev** at [kuroi.shop](https://kuroi.shop) | Built and maintained the storefront for a custom T-shirt printing startup.  |
+### 🧠 Applied AI & Data Systems
+- Built **NLP-driven systems** using TF-IDF and Sentence-BERT for document similarity, clustering, and analysis  
+- Applied **machine learning workflows** including data preprocessing, feature engineering, and model evaluation  
+- Experienced with **Pandas, NumPy, Scikit-learn** for data-driven problem solving and insights  
 
-My goal is to create things that are both useful and beautiful. [​.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+---
 
+### 💻 Full-Stack Engineering
+- Developed **end-to-end web applications** using React, Node.js, Express, and MongoDB  
+- Designed systems with **authentication, filtering, and scalable data handling**  
+- Focused on **clean architecture, modular design, and performance optimization**  
+
+---
+
+### ⚙️ System Thinking & Backend Foundations
+- Strong foundation in **Data Structures & Algorithms** with problem-solving focus  
+- Understanding of **system design fundamentals**, APIs, and backend workflows  
+- Experience working with **databases (SQL & NoSQL)** and structured data systems  
+
+---
+
+### 🚀 Product & Execution Layer
+- Applied engineering skills in **real-world environments** (startup platforms, university-scale systems)  
+- Combined **technical development with product thinking**, optimizing for usability and real users  
+- Experience shipping projects from **idea → development → deployment**
+
+---
+
+### 🧩 Tooling & Workflow
+- Development using **Git, GitHub, VS Code, Jupyter, Google Colab**  
+- Comfortable with **debugging, version control, and collaborative development workflows**  
+- Experience integrating **APIs and deploying full-stack applications**
 ---
 ### 🔗 Let's Connect
 
