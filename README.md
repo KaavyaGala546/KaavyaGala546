@@ -114,7 +114,7 @@ I’m particularly interested in **applied AI, system design, and building techn
 - Designed for **scalable data handling and smooth user interaction**  
 - Implemented backend APIs and database integration  
 - **Tech:** React, Node.js, Express, MongoDB  
-🔗 [View Project](https://github.com/KaavyaGala546/DocuMind-AI) • 🌐 docu-mind-ai-kaavya.streamlit.app/  
+🔗 [View Project](https://github.com/KaavyaGala546/DocuMind-AI) • 🌐 [Live](docu-mind-ai-kaavya.streamlit.app/)  
 
 ---
 
