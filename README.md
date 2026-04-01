@@ -69,40 +69,38 @@ And of course, **loading more...** ▓▓▓▓▓▓▓▓▓▓▓░ 90%
 
 ## 🛠 Technical Expertise
 
-### 🧠 Applied AI & Data Systems
-- Built **NLP-driven systems** using TF-IDF and Sentence-BERT for document similarity, clustering, and analysis  
-- Applied **machine learning workflows** including data preprocessing, feature engineering, and model evaluation  
-- Experienced with **Pandas, NumPy, Scikit-learn** for data-driven problem solving and insights  
+### 🧠 Applied AI & Intelligent Systems
+- Built an **NLP-based research analyzer** using TF-IDF and Sentence-BERT for document similarity, clustering, and topic modeling  
+- Designed **data processing pipelines** involving preprocessing, feature extraction, and visualization  
+- Applied **machine learning techniques** using Pandas, NumPy, and Scikit-learn for data-driven insights  
 
 ---
 
 ### 💻 Full-Stack Engineering
 - Developed **end-to-end web applications** using React, Node.js, Express, and MongoDB  
-- Designed systems with **authentication, filtering, and scalable data handling**  
-- Focused on **clean architecture, modular design, and performance optimization**  
+- Built and deployed **production-level web systems**, including a university-scale platform recognized for its maturity and completeness  
+- Implemented features such as **authentication, filtering, and efficient data handling**  
 
 ---
 
-### ⚙️ System Thinking & Backend Foundations
+### ⚙️ Systems & Backend Foundations
 - Strong foundation in **Data Structures & Algorithms** with problem-solving focus  
-- Understanding of **system design fundamentals**, APIs, and backend workflows  
-- Experience working with **databases (SQL & NoSQL)** and structured data systems  
+- Understanding of **system design fundamentals**, API architecture, and backend workflows  
+- Experience working with **SQL & NoSQL databases** in real-world applications  
 
 ---
 
-### 🚀 Product & Execution Layer
-- Applied engineering skills in **real-world environments** (startup platforms, university-scale systems)  
-- Combined **technical development with product thinking**, optimizing for usability and real users  
-- Experience shipping projects from **idea → development → deployment**
+### 🚀 Product Engineering & Startup Execution
+- Founder of **Bocadoh**, building a D2C healthy snacking brand from **idea to market execution**  
+- Working across **product development, market research, and go-to-market strategy**  
+- Combine **engineering + product thinking** to build scalable, user-centric solutions  
 
 ---
 
-### 🧩 Tooling & Workflow
-- Development using **Git, GitHub, VS Code, Jupyter, Google Colab**  
-- Comfortable with **debugging, version control, and collaborative development workflows**  
-- Experience integrating **APIs and deploying full-stack applications**
----
-### 🔗 Let's Connect
+### 🧩 Development Workflow & Tooling
+- Tools: **Git, GitHub, VS Code, Jupyter Notebook, Google Colab**  
+- Experienced in **debugging, version control, and collaborative development workflows**  
+- Comfortable with **API integration and deploying full-stack applications**### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharanyo-banerjee-68676a301/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
