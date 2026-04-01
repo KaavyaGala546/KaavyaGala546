@@ -105,16 +105,17 @@ I’m particularly interested in **applied AI, system design, and building techn
 - Implemented **clustering, topic modeling (LDA), and summarization pipelines**  
 - Focused on extracting insights from large text datasets  
 - **Tech:** Python, Scikit-learn, NLP  
-🔗 [View Project](https://github.com/KaavyaGala546/DocuMind-AI) • 🌐 [Live](https://docu-mind-ai-kaavya.streamlit.app/) 
-
+🔗 [View Code](https://github.com/KaavyaGala546/DocuMind-AI)  
+🌐 [Live Demo](https://docu-mind-ai-kaavya.streamlit.app/)
 ---
 
 ### 💻 Full-Stack Property Platform
 - Developed a **full-stack web application** with authentication and dynamic filtering  
 - Designed for **scalable data handling and smooth user interaction**  
 - Implemented backend APIs and database integration  
-- **Tech:** React, Node.js, Express, MongoDB  
-🔗 [View Project](https://github.com/KaavyaGala546/property-listing) • 🌐 [Live](https://property-listing-amber.vercel.app/)
+- **Tech:** React, Node.js, Express, MongoDB
+🔗 [View Code](https://github.com/KaavyaGala546/property-listing)
+🌐 [Live Demo](https://property-listing-amber.vercel.app/)
 
 ---
 
