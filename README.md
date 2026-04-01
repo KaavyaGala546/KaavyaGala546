@@ -114,7 +114,7 @@ I’m particularly interested in **applied AI, system design, and building techn
 - Designed for **scalable data handling and smooth user interaction**  
 - Implemented backend APIs and database integration  
 - **Tech:** React, Node.js, Express, MongoDB  
-🔗 View Project • 🌐 Live Demo  
+🔗 [View Project](https://github.com/KaavyaGala546/DocuMind-AI) • 🌐 docu-mind-ai-kaavya.streamlit.app/  
 
 ---
 
@@ -123,7 +123,6 @@ I’m particularly interested in **applied AI, system design, and building techn
 - Built a platform recognized as one of the **most mature university fest websites**  
 - Designed for **real-world usage, performance, and usability at scale**  
 - **Tech:** React, Web Technologies, Deployment  
-🔗 View Project • 🌐 Live Demo  
 
 ---
 
