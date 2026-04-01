@@ -1,12 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Systems+Engineer;Systems+%26+Product+Thinker" />
+</p>
 
 # Kaavya Gala
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Systems+Engineer;Systems+%26+Product+Thinker" />
-</a>
+---
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaavyaGala546&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -14,9 +16,9 @@
 
 I’m a Computer Science (AI & ML) student focused on building **intelligent, real-world systems**.
 
-I work at the intersection of **applied AI, full-stack engineering, and product execution** — from NLP systems to production-grade web applications.
+I work at the intersection of **applied AI, full-stack engineering, and product execution** — from NLP systems to production-grade applications.
 
-I’ve led a **600+ member entrepreneurship community** and am currently building a **D2C startup (Bocadoh)** from the ground up.
+I’ve led a **600+ member entrepreneurship community** and I’m currently building a **D2C startup (Bocadoh)** from the ground up.
 
 ---
 
@@ -78,9 +80,9 @@ I’ve led a **600+ member entrepreneurship community** and am currently buildin
 ## 🚀 Technical Highlights
 
 ### 🧠 Applied AI
-- Built an **NLP-based research analyzer** processing large-scale text datasets  
+- Built an **NLP-based research analyzer** using TF-IDF and Sentence-BERT  
 - Implemented **clustering, topic modeling (LDA), and semantic similarity pipelines**  
-- Applied **feature engineering and preprocessing techniques** for better model performance  
+- Designed systems to extract insights from large-scale unstructured data  
 
 ---
 
@@ -92,14 +94,14 @@ I’ve led a **600+ member entrepreneurship community** and am currently buildin
 ---
 
 ### ⚙️ Real-World Engineering
-- Led development of a **university-scale platform** used in real environments  
-- Built systems handling **live users, workflows, and deployment constraints**  
+- Led development of a **university-scale platform** used by real users  
+- Built systems handling **live workflows, users, and deployment constraints**  
 
 ---
 
 ### 🚀 Product & Startup
 - Founder of **Bocadoh** — building a D2C brand from idea to execution  
-- Working across **product, positioning, and go-to-market strategy**  
+- Working across **product development, positioning, and go-to-market strategy**  
 - Focused on **building systems beyond development environments**  
 
 ---
@@ -133,7 +135,7 @@ I’ve led a **600+ member entrepreneurship community** and am currently buildin
 ### ⚙️ DAMRU Fest Website
 - Led **end-to-end development** (design → development → deployment)  
 - Built a **high-performance platform** used at university scale  
-- Focused on **usability, responsiveness, and real-world reliability**  
+- Focused on **usability, responsiveness, and reliability**  
 
 **Tech:** React, Web Technologies, Deployment  
 
@@ -149,8 +151,8 @@ I’ve led a **600+ member entrepreneurship community** and am currently buildin
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### ⚡ Building systems that are not just functional — but usable, scalable, and real.
 
-</div>
+</p>
