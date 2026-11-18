@@ -38,4 +38,18 @@ Most builders optimize for demos; I optimize for systems that survive real-world
 ### Technical Stack
 
 * **Languages & Core Systems:** `Python` · `TypeScript` · `C++` · `Rust` · `SQL`
-* **AI & Data Architecture:** `FastAPI` · `LangGraph` · `SB
+* **AI & Data Architecture:** `FastAPI` · `LangGraph` · `SBERT` · `TF-IDF` · `K-Means` · `Edge Computer Vision`
+* **Product & Interface Engineering:** `Next.js` · `React` · `Tailwind CSS` · `Framer Motion` · `Supabase` · `Figma`
+
+---
+
+### Engineering & Ecosystem Proof
+
+* **Open-Source Velocity:** Completed **Hacktoberfest** in under **2 hours** with a 100% pull-request merge rate (Gold Badge); founded **DCode** to drive structured open-source engineering among student builders.
+* **Commercial & Operational Scale:** Directing product R&D, vendor telemetry (20–30 suppliers), and multi-channel execution at **Bocadoh** (~10,000 units sold), applying systems thinking across both physical logistics and software.
+
+---
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaavyagala&show_icons=true&theme=transparent&hide_border=true&title_color=6e8efb&text_color=7d8590&icon_color=6e8efb" height="150" alt="GitHub Stats" />
+</div>
