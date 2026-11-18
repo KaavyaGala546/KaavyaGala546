@@ -2,12 +2,6 @@
   <img src="./MyBanner.png" alt="SIGNAL over NOISE" width="100%" />
 </div>
 
-<div align="left">
-<a href="https://linkedin.com/in/kaavyagala"><img src="https://img.shields.io/badge/LINKEDIN-061033?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0YyRUZFOSI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzd6Ii8%2BPC9zdmc%2B&logoColor=F2EFE9" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://kaavyagala.com"><img src="https://img.shields.io/badge/WEBSITE-0B2266?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjJFRkU5IiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNMyAxMmgxOE0xMiAzYTE0IDE0IDAgMCAxIDAgMThNMTIgM2ExNCAxNCAwIDAgMCAwIDE4Ii8%2BPC9zdmc%2B&logoColor=F2EFE9" alt="Website" /></a>&nbsp;&nbsp;<a href="mailto:kaavya@bocadoh.com"><img src="https://img.shields.io/badge/CONTACT-13389E?style=for-the-badge&logo=gmail&logoColor=F2EFE9" alt="Contact" /></a>
-</div>
----
----
-
 ### Operating Thesis
 
 Most builders optimize for demos; I optimize for systems that survive real-world constraints. Alongside studying **BSc (Hons) Computer Science with Artificial Intelligence** at the **University of York** (Merit Scholar) and running commercial P&L and supply-chain operations at **Bocadoh**, I design and ship full-stack software, semantic AI tools, and sensor-driven hardware.
