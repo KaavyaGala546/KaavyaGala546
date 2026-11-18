@@ -8,16 +8,6 @@ Most builders optimize for demos; I optimize for systems that survive real-world
 
 ---
 
-### Selected Systems & Builds
-
-| System | Architecture & Execution | Core Stack |
-| :--- | :--- | :--- |
-| **[DwarPod](https://github.com/kaavyagala/dwarpod)** | Enterprise attendance and focus terminal combining NFC tap authentication, parallel-alignment dual-camera Face ID verification, and automated distraction lockouts. | `Computer Vision` `NFC` `Python` `C++` |
-| **[BONK](https://github.com/kaavyagala/bonk)** | Hardware-integrated pickleball telemetry platform featuring net-mounted impact sensors, tap triggers, real-time court scoring displays, and an MMR ranking engine. | `IoT Telemetry` `TypeScript` `Next.js` `Supabase` |
-| **[DocuMind-AI](https://github.com/kaavyagala/documind-ai)** | Interactive document intelligence and research synthesis engine powered by dense SBERT embeddings, TF-IDF vectorization, and K-Means clustering. | `Python` `SBERT` `TF-IDF` `K-Means` `FastAPI` |
-| **[Damru Platform](https://github.com/kaavyagala/damru)** | End-to-end event discovery, artist rollout, and registration web infrastructure engineered from scratch in three months to absorb peak live traffic with zero downtime. | `Next.js` `TypeScript` `Tailwind CSS` `Vercel` |
-
----
 
 ### Technical Stack
 
@@ -34,6 +24,3 @@ Most builders optimize for demos; I optimize for systems that survive real-world
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaavyagala&show_icons=true&theme=transparent&hide_border=true&title_color=6e8efb&text_color=7d8590&icon_color=6e8efb" height="150" alt="GitHub Stats" />
-</div>
