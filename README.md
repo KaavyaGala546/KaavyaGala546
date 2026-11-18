@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="SIGNAL over NOISE" width="100%" />
+  <img src="./Banner.png" alt="SIGNAL over NOISE" width="100%" />
 </div>
 
 <div align="left">
