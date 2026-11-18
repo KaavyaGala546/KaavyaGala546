@@ -1,146 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Systems+Engineer;Systems+%26+Product+Thinker" />
-</p>
+<div align="center">
+  <img src="./banner.png" alt="SIGNAL over NOISE" width="100%" />
+</div>
+
+<div align="left">
 
 # Kaavya Gala
-### Building AI-powered systems that solve real-world problems
+
+**CS & AI @ University of York · Founder & CEO @ Bocadoh · Systems & Hardware Builder**
+
+Architecting deterministic software, edge computer vision hardware, and applied AI systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-071330?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaavyagala)
+[![Portfolio](https://img.shields.io/badge/Website-071330?style=flat-square&logo=vercel&logoColor=white)](https://kaavyagala.com)
+[![Email](https://img.shields.io/badge/Contact-071330?style=flat-square&logo=gmail&logoColor=white)](mailto:kaavya@bocadoh.com)
+
+</div>
 
 ---
 
-## 👋 About Me
+### Operating Thesis
 
-I’m a Computer Science (AI & ML) student focused on building **intelligent, real-world systems**.
-
-I work at the intersection of **applied AI, full-stack engineering, and product execution** — from NLP systems to production-grade applications.
-
-I’ve led a **600+ member entrepreneurship community** and I’m currently building a **D2C startup (Bocadoh)** from the ground up.
+Most builders optimize for demos; I optimize for systems that survive real-world constraints. Alongside studying **BSc (Hons) Computer Science with Artificial Intelligence** at the **University of York** (Merit Scholar) and running commercial P&L and supply-chain operations at **Bocadoh**, I design and ship full-stack software, semantic AI tools, and sensor-driven hardware.
 
 ---
 
-## 🚀 Flagship Project
+### Selected Systems & Builds
 
-### 🧠 DocuMind AI — Intelligent Research Assistant
-
-- Built using **TF-IDF + Sentence-BERT** for semantic document similarity  
-- Processes large-scale document datasets and extracts meaningful insights  
-- Implemented **clustering, topic modeling, and summarization pipelines**  
-- Designed for real-world research and knowledge workflows  
-
-**Tech:** Python, NLP, Scikit-learn  
-
-🔗 [View Code](https://github.com/KaavyaGala546/DocuMind-AI)  
-🌐 [Live Demo](https://docu-mind-ai-kaavya.streamlit.app/)
+| System | Architecture & Execution | Core Stack |
+| :--- | :--- | :--- |
+| **[DwarPod](https://github.com/kaavyagala/dwarpod)** | Enterprise attendance and focus terminal combining NFC tap authentication, parallel-alignment dual-camera Face ID verification, and automated distraction lockouts. | `Computer Vision` `NFC` `Python` `C++` |
+| **[BONK](https://github.com/kaavyagala/bonk)** | Hardware-integrated pickleball telemetry platform featuring net-mounted impact sensors, tap triggers, real-time court scoring displays, and an MMR ranking engine. | `IoT Telemetry` `TypeScript` `Next.js` `Supabase` |
+| **[DocuMind-AI](https://github.com/kaavyagala/documind-ai)** | Interactive document intelligence and research synthesis engine powered by dense SBERT embeddings, TF-IDF vectorization, and K-Means clustering. | `Python` `SBERT` `TF-IDF` `K-Means` `FastAPI` |
+| **[Damru Platform](https://github.com/kaavyagala/damru)** | End-to-end event discovery, artist rollout, and registration web infrastructure engineered from scratch in three months to absorb peak live traffic with zero downtime. | `Next.js` `TypeScript` `Tailwind CSS` `Vercel` |
 
 ---
 
-## 📊 Impact & Experience
+### Technical Stack
 
-- Led a **600+ member entrepreneurship community**  
-- Built systems used in **university-scale environments**  
-- Developed and deployed **multiple full-stack applications**  
-- Currently building a **D2C startup (Bocadoh)** from scratch  
-
----
-
-## ⚡ What I Do
-
-- 🧠 Build **applied AI systems**, focused on NLP and data-driven applications  
-- 💻 Develop **scalable full-stack systems** with clean architecture  
-- ⚙️ Think in **systems and backend workflows**, not just features  
-- 🚀 Combine **engineering + product thinking** to build real-world solutions  
-
----
-
-## 🎯 Current Focus
-
-- Scaling applied AI systems beyond prototypes  
-- Strengthening system design and backend architecture  
-- Building and launching Bocadoh  
-
----
-
-## 🧠 How I Think
-
-- I focus on building **systems, not just features**  
-- I prioritize **real-world usability over theoretical perfection**  
-- I approach problems with a **product + engineering mindset**  
-- I enjoy working on **complex, open-ended challenges**  
-
----
-
-## 🛠 Tech Stack
-
-### 🧠 AI / Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-<p align="center">
-  <b>Pandas • NumPy • Scikit-learn • NLP • Machine Learning • Data Analysis</b>
-</p>
-
----
-
-### 💻 Full-Stack Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css" />
-</p>
-
----
-
-### ⚙️ Tools & Workflow
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
-</p>
-
-<p align="center">
-  <b>Version Control • API Integration • Debugging • Deployment</b>
-</p>
-
----
-
-### 🧩 Core Foundations
-<p align="center">
-  <b>Data Structures & Algorithms • System Design Fundamentals • Databases (SQL & NoSQL)</b>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 💻 Full-Stack Property Platform
-- Developed a **full-stack web application** with authentication and dynamic filtering  
-- Designed for **scalable data handling and smooth user interaction**  
-- Implemented backend APIs and database integration  
-
-**Tech:** React, Node.js, Express, MongoDB  
-
-🔗 [View Code](https://github.com/KaavyaGala546/property-listing)  
-🌐 [Live Demo](https://property-listing-amber.vercel.app/)
-
----
-
-### ⚙️ DAMRU Fest Website
-- Led **end-to-end development** (design → development → deployment)  
-- Built a **high-performance platform** used at university scale  
-- Focused on **usability, responsiveness, and reliability**  
-
-**Tech:** React, Web Technologies, Deployment  
-
----
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaavya-gala-46602221a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
-
----
-
-<p align="center">
-
-### ⚡ Building systems that are not just functional — but usable, scalable, and real.
-
-</p>
+* **Languages & Core Systems:** `Python` · `TypeScript` · `C++` · `Rust` · `SQL`
+* **AI & Data Architecture:** `FastAPI` · `LangGraph` · `SB
