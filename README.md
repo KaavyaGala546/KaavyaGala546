@@ -4,18 +4,23 @@
 
 <div align="left">
 
-# Kaavya Gala
-
-**CS & AI @ University of York · Founder & CEO @ Bocadoh · Systems & Hardware Builder**
-
-Architecting deterministic software, edge computer vision hardware, and applied AI systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-071330?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaavyagala)
-[![Portfolio](https://img.shields.io/badge/Website-071330?style=flat-square&logo=vercel&logoColor=white)](https://kaavyagala.com)
-[![Email](https://img.shields.io/badge/Contact-071330?style=flat-square&logo=gmail&logoColor=white)](mailto:kaavya@bocadoh.com)
-
+<div align="center">
+  <img src="Banner.png" alt="SIGNAL over NOISE" width="100%" />
+  <br /><br />
+  <a href="https://linkedin.com/in/kaavyagala">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1F5C?style=for-the-badge&logo=linkedin&logoColor=F2EFE9" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://kaavyagala.com">
+    <img src="https://img.shields.io/badge/WEBSITE-0D1F5C?style=for-the-badge&logo=vercel&logoColor=F2EFE9" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="mailto:kaavya@bocadoh.com">
+    <img src="https://img.shields.io/badge/CONTACT-0D1F5C?style=for-the-badge&logo=gmail&logoColor=F2EFE9" alt="Contact" />
+  </a>
 </div>
 
+---
 ---
 
 ### Operating Thesis
